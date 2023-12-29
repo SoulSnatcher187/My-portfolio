@@ -2,7 +2,7 @@ Perview:
 https://candid-dieffenbachia-d53a1b.netlify.app
 
 Few steps to run the project locally:
-In terminal
+ -In terminal
 1. run "npm i"
 2. run "npm start" to start the project
 
